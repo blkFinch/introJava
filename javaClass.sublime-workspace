@@ -1,0 +1,927 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"We",
+				"WelcomeXTimes"
+			],
+			[
+				"Welcom",
+				"WelcomeJava5"
+			],
+			[
+				"Welcome",
+				"WelcomeXTimes"
+			],
+			[
+				"ch",
+				"checkState"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"h",
+				"h"
+			],
+			[
+				"sc",
+				"screenHeight"
+			],
+			[
+				"screen",
+				"screenWidth"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"col-x",
+				"col-xs-2 \tBootstrap 3 Class"
+			],
+			[
+				"btn",
+				"btn-success \tBootstrap 3 Class"
+			],
+			[
+				"btn-",
+				"btn-danger \tBootstrap 3 Class"
+			],
+			[
+				"panel-",
+				"panel-collapse \tBootstrap 3 Class"
+			],
+			[
+				"col",
+				"collapse1"
+			],
+			[
+				"panel",
+				"panel-title \tBootstrap 3 Class"
+			],
+			[
+				"pan",
+				"panel-heading \tBootstrap 3 Class"
+			],
+			[
+				"img",
+				"img-rounded \tBootstrap 3 Class"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"roll",
+				"roll6"
+			],
+			[
+				"wrapper",
+				"wrapper2"
+			],
+			[
+				"wrapp",
+				"wrapper2"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"vis",
+				"vistoggle"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"thi",
+				"this"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"gt",
+				"getElementById"
+			],
+			[
+				"Get",
+				"getElementsByClassName"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"rb",
+				"rgb()"
+			],
+			[
+				"getEle",
+				"getElementById"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"div",
+				"divToHide"
+			],
+			[
+				"userT",
+				"userTextArea"
+			],
+			[
+				"bo",
+				"boxCon"
+			],
+			[
+				"crea",
+				"createTextNode"
+			],
+			[
+				"pa",
+				"para"
+			],
+			[
+				"te",
+				"TextArea"
+			],
+			[
+				"Sub",
+				"submit"
+			],
+			[
+				"wr",
+				"write"
+			],
+			[
+				"wri",
+				"writeX"
+			],
+			[
+				"rand",
+				"randomnum"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"dro",
+				"dropdown-content"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"grid-au",
+				"grid-auto-columns"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"gr",
+				"grid-gap"
+			],
+			[
+				"grid",
+				"grid-template-columns"
+			],
+			[
+				"gri",
+				"grid-auto-columns"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"grid-ro",
+				"grid-row-gap"
+			],
+			[
+				"grid-c",
+				"grid-column-gap"
+			],
+			[
+				"gridte",
+				"grid-template-columns"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"text",
+				"text"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"gre",
+				"greenarial"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"pr",
+				"progress\tTag"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"sty",
+				"style"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "HelloWorld.java",
+			"settings":
+			{
+				"buffer_size": 227,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "WelcomeJava5.java",
+			"settings":
+			{
+				"buffer_size": 355,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TestClass.java",
+			"settings":
+			{
+				"buffer_size": 105,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Java/JavaC.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/raylib.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "lo",
+		"selected_items":
+		[
+			[
+				"lo",
+				"LoremIpsum: (30) lots"
+			],
+			[
+				"lor",
+				"LoremIpsum: (200) stick shake"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"pvr",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"back",
+				"BackgroundColorEdit: Show Background Color"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"lorm",
+				"LoremIpsum: (30) lots"
+			],
+			[
+				"ipsum",
+				"LoremIpsum: (15) some"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"l",
+				"LoremIpsum: (30) lots"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git bra",
+				"Git: Change Branch"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/black/javaClass"
+	],
+	"file_history":
+	[
+		"/home/black/javaClass/helloWorld.java",
+		"/home/black/code/Oracle/oracle.c",
+		"/home/black/code/adventure_rl/simpleadv.c",
+		"/home/black/code/raylibMove.c",
+		"/home/black/code/adventure_rl/ver1.c",
+		"/home/black/code/rltest.c",
+		"/home/black/code/adventure_rl/newTest.rb",
+		"/home/black/.config/sublime-text-3/Packages/User/ColorHighlighter.sublime-settings",
+		"/home/black/.config/sublime-text-3/Packages/User/raylib.sublime-build",
+		"/home/black/EMRbearTraining/bs.css",
+		"/home/black/EMRbearTraining/cescript.js",
+		"/home/black/EMRbearTraining/grid3.js",
+		"/home/black/EMRbearTraining/bs.js",
+		"/home/black/EMRbearTraining/grid3.html",
+		"/home/black/EMRbearTraining/bspage.html",
+		"/home/black/.config/sublime-text-3/Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+		"/home/black/.config/sublime-text-3/Packages/Neon Color Scheme/Neon.tmTheme",
+		"/home/black/.config/sublime-text-3/Packages/Color Scheme - Yotsuba/Yotsuba.tmTheme",
+		"/home/black/.config/sublime-text-3/Packages/Retro Computers Color Schemes/Apple II.tmTheme",
+		"/home/black/EMRbearTraining/emrtraining2.html",
+		"/home/black/code/bs2.css",
+		"/home/black/code/bs.css",
+		"/home/black/.config/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/home/black/EMRbearTraining/ce.html",
+		"/home/black/EMRbearTraining/cestyle.css",
+		"/home/black/EMRbearTraining/stylesheet1.css",
+		"/home/black/.config/sublime-text-3/Packages/Origami/Origami.sublime-settings",
+		"/home/black/EMRbearTraining/emr1.html",
+		"/home/black/EMRbearTraining/grid2.html",
+		"/etc/apt/sources.list",
+		"/home/black/EMRbearTraining/grid.html",
+		"/home/black/EMRbearTraining/emtraining2.html",
+		"/home/black/code/test.html",
+		"/home/black/EMRbearTraining/emrtraining.html",
+		"/home/black/.gitconfig",
+		"/home/black/code/emrtraining.html",
+		"/home/black/code/emrtraining2",
+		"/home/black/.bashrc",
+		"/home/black/html/index.html",
+		"/home/black/html/html",
+		"/home/black/htmlBear",
+		"/home/black/Downloads/frankconfig",
+		"/home/black/EMRbearTraining/README.md",
+		"/home/black/EMRbearTraining/COMMIT_EDITMSG.COMMIT_EDITMSG",
+		"/etc/profile",
+		"/home/black/.ssh/config",
+		"/home/black/code/raylibSublime2.c",
+		"/etc/.profile",
+		"/home/black/.profile",
+		"/home/black/keys/BFserverPKey.pem",
+		"/home/black/myoutput.txt",
+		"/home/black/.ssh/authorized_keys",
+		"/home/black/.bash_profile",
+		"/home/black/code/newRuby.rb",
+		"/home/black/code/test1",
+		"/home/black/code/raylibSublime",
+		"/home/black/code/RubyTest1.rb",
+		"/home/black/code/test.cpp",
+		"/home/black/code/rlSub",
+		"/home/black/code/rubyTest2.rb",
+		"/home/black/code/rubyTest.rb",
+		"/home/black/code/goTest.go",
+		"/home/black/code/RubyTest2.rb",
+		"/home/black/code/go/bin/hello",
+		"/home/black/code/RubyTest",
+		"/home/black/.config/sublime-text-3/Packages/User/Side Bar.sublime-settings"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"IsKeyDown",
+			"background",
+			"E22E8F",
+			"a6e22e",
+			"fd971f",
+			"66d9ef",
+			"a1efe4",
+			"#66d9ef",
+			"#FFFFEE",
+			"#2D00C5",
+			"#4809CEFF",
+			"f92672",
+			"selection",
+			"selec",
+			"punc",
+			"66d9ef",
+			"function",
+			"66d9ef",
+			"decorators",
+			"66d9ef",
+			"delimiter",
+			"#272822",
+			"363731",
+			"ffffff55",
+			"css",
+			"e6db7415",
+			"background",
+			"272822",
+			"modal",
+			"header",
+			"jquery-ui",
+			"modal",
+			"<input type=\"radio\" name=\"color\" value=\"blue\" id=\"btext\">Blue",
+			"<p>\n        Commodo commodo excepteur ut minim dolore amet tempor cillum nostrud sit ut excepteur sunt irure est ex irure est consequat esse ut sit ex dolor in in.\n      </p>",
+			"<div>\n      Anim non nostrud non sit nulla voluptate nulla exercitation ea culpa ut sunt fugiat do eu quis.\n    </div>",
+			"aside"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "HelloWorld.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "WelcomeJava5.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "TestClass.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								105
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 367.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 275.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "javaClass.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"test.cpp",
+				"test.cpp"
+			],
+			[
+				"ray",
+				"raylibSublime"
+			],
+			[
+				"ruby",
+				"rubyTest.rb"
+			],
+			[
+				"",
+				"raylibSublime2.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/EMRbearTraining/Ruby/rubyproj.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 124.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"secondFunc"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
