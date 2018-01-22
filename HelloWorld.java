@@ -1,7 +1,11 @@
+//N. Hutchison
+// 1/22/17
+// ISCS-113
+// Hello World
 public class HelloWorld{
 
 	public void sayHello(){
-		System.out.println("hello world!");
+		System.out.println("hello world!, my name is Nick!");
 	}
 
 	public static void main(String[] args){
