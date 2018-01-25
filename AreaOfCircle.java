@@ -5,9 +5,10 @@ public class AreaOfCircle{
 
 	Scanner input = new Scanner(System.in);
 
-	final double PI = 3.14159;
-	double radius;
-	double area;
+	private final double PI = 3.14159;
+	private double radius;
+	private double area;
+
 
 	public void getRadius(){
 		System.out.print("Enter the radius: ");
