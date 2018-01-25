@@ -2,7 +2,6 @@
 // 1/22/17
 // ISCS-113
 // Hello World
-//made a change to test
 public class HelloWorld{
 
 	public void sayHello(){

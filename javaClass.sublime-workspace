@@ -359,7 +359,7 @@
 			"file": "HelloWorld.java",
 			"settings":
 			{
-				"buffer_size": 227,
+				"buffer_size": 322,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -377,7 +377,7 @@
 			"file": "TestClass.java",
 			"settings":
 			{
-				"buffer_size": 105,
+				"buffer_size": 144,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -572,7 +572,7 @@
 	},
 	"expanded_folders":
 	[
-		"/home/black/javaClass"
+		"/home/finch/introJava"
 	],
 	"file_history":
 	[
@@ -645,7 +645,7 @@
 	],
 	"find":
 	{
-		"height": 48.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -713,7 +713,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -722,15 +722,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 227,
+						"buffer_size": 322,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								227,
-								227
+								0,
+								0
 							]
 						],
 						"settings":
@@ -742,7 +742,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -771,7 +771,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -780,15 +780,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 105,
+						"buffer_size": 144,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								105,
-								105
+								134,
+								134
 							]
 						],
 						"settings":
@@ -800,7 +800,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -808,7 +808,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 23.0
 	},
 	"input":
 	{
@@ -857,7 +857,7 @@
 	"project": "javaClass.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
