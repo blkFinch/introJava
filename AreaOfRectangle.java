@@ -13,9 +13,9 @@ public class AreaOfRectangle {
 	Scanner input = new Scanner(System.in);
 
 	//variables
-	double width;
-	double height;
-	double area;
+	private double width;
+	private double height;
+	private double area;
 	
 	public double getWidth(){
 		System.out.print("Enter width: ");
