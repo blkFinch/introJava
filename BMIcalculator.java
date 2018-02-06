@@ -3,9 +3,16 @@ BMI calculator
 
 
 */
+import java.util.Scanner;
 
 public class BMIcalculator{
 
+  Scanner input = new Scanner(System.in);
+
+  private double weight;
+  private double height;
+
+  private double CONV = 703;//constant conversion rate
 
 
 
@@ -14,4 +21,4 @@ public class BMIcalculator{
 
 public static void main(String[] args){
 	
-}
+}//end of main
