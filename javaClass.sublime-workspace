@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"test",
+				"testToString"
+			],
+			[
+				"is",
+				"isObese"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"pr",
+				"printResult"
+			],
+			[
+				"BMI",
+				"BMIcalculator"
+			],
+			[
+				"ca",
+				"calculateBMI"
+			],
+			[
+				"set",
+				"setHeight"
+			],
+			[
 				"get",
 				"getPerimeter"
 			],
@@ -20,20 +48,12 @@
 				"printPetsAge"
 			],
 			[
-				"pr",
-				"printDogAge"
-			],
-			[
 				"dog",
 				"dogAge"
 			],
 			[
 				"Area",
 				"AreaOfRectangle"
-			],
-			[
-				"re",
-				"rectangle"
 			],
 			[
 				"in",
@@ -383,25 +403,7 @@
 			"file": "AreaOfRectangle.java",
 			"settings":
 			{
-				"buffer_size": 1998,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "BMIcalculator.java",
-			"settings":
-			{
-				"buffer_size": 316,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "MyPetsAge.java",
-			"settings":
-			{
-				"buffer_size": 1013,
+				"buffer_size": 1997,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -600,8 +602,10 @@
 	],
 	"file_history":
 	[
-		"/home/finch/introJava/HelloWorld.java",
+		"/home/finch/introJava/SortThree.java",
+		"/home/finch/introJava/MyPetsAge.java",
 		"/home/finch/introJava/BMIcalculator.java",
+		"/home/finch/introJava/HelloWorld.java",
 		"/home/finch/introJava/WelcomeJava5.java",
 		"/home/finch/introJava/TestClass.java",
 		"/home/finch/introJava/AreaOfCircle.java",
@@ -743,7 +747,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -752,15 +756,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1998,
+						"buffer_size": 1997,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1998,
-								1998
+								68,
+								68
 							]
 						],
 						"settings":
@@ -769,66 +773,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "BMIcalculator.java",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 316,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								239,
-								239
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Java/Java.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 667.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "MyPetsAge.java",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1013,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								569,
-								569
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Java/Java.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
 					"type": "text"
 				}
 			]

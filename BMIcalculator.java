@@ -60,6 +60,7 @@ public class BMIcalculator{
   //construtors
 
   public BMIcalculator(double height, double weight, double bmi){
+    super();
     setHeight(height);
     setWeight(weight);
     setBMI(bmi);
