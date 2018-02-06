@@ -1,6 +1,9 @@
 //N.Hutchison
 // Sort Three Integers
+//2/5/18
 //
+// Honor Code: I pledge that this program represents my own
+// program code. I received help from no one in designing and debugging my program.
 //
 
 import java.util.Scanner;
