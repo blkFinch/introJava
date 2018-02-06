@@ -89,7 +89,7 @@ public class AreaOfRectangle {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		AreaOfRectangle rectangle = new AreaOfRectangle(0,0,0,01);
+		AreaOfRectangle rectangle = new AreaOfRectangle(0,0,0,0);
 		rectangle.buildObject();
 		rectangle.printResult();
 		

@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"get",
+				"getPerimeter"
+			],
+			[
 				"prin",
 				"printPetsAge"
 			],
@@ -14,10 +18,6 @@
 			[
 				"pri",
 				"printPetsAge"
-			],
-			[
-				"get",
-				"getFishAge"
 			],
 			[
 				"pr",
@@ -383,9 +383,18 @@
 			"file": "AreaOfRectangle.java",
 			"settings":
 			{
-				"buffer_size": 1454,
+				"buffer_size": 1998,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "BMIcalculator.java",
+			"settings":
+			{
+				"buffer_size": 316,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			}
 		},
 		{
@@ -743,15 +752,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1454,
+						"buffer_size": 1998,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								282,
-								282
+								1998,
+								1998
 							]
 						],
 						"settings":
@@ -760,7 +769,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 705.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -768,6 +777,34 @@
 				},
 				{
 					"buffer": 1,
+					"file": "BMIcalculator.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								239,
+								239
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "MyPetsAge.java",
 					"semi_transient": false,
 					"settings":
@@ -791,7 +828,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -909,7 +946,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 202.0,
 	"status_bar_visible": true,
 	"template_settings":
