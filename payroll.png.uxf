@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>200</x>
+      <y>110</y>
+      <w>210</w>
+      <h>300</h>
+    </coordinates>
+    <panel_attributes>EmployeePayroll
+--
+Variables
+--
+-name: string
+	-hours: double
+	-payrate: double
+	-fedTax: double
+	-stateTax: double
+	-grossPay: double
+	-totalDeduction: double
+	-netPay: double
+--
+Methods
+--
++calcGrossPay
++calcFedTax
++calcStateTax
++calcTotalDeduction
++calcNetPay</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
