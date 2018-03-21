@@ -1,8 +1,11 @@
 //N.Hutchison
+//3/6/17
 //
+//Using for loops to print patterns
 //
-//
-
+//Honor code: This represents my own program code.
+//I recieved help from no one in designing or debugging 
+//this code.
 
 public class Patterns{
   

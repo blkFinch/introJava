@@ -16,10 +16,13 @@ public class BitLevel{
     System.out.print("Enter integer: ");
     int someNum = input.nextInt();
 
+    //i like this way better than the loop
+    //it doesn't generate hanging 0's at the begining
     String binaryString = Integer.toBinaryString(someNum);
     System.out.println(binaryString);
     
-    //loop version
+    //loop version follows in comment:
+
     // for(int i = 15, i >= 0; i--){
     //   int check = someNum >> i;
     //   System.out.print(check);
