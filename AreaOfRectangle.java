@@ -10,6 +10,7 @@ OOP design calculate the area of rectangle
 
 */
 import java.util.Scanner;
+import java.util.InputMismatchException;
 
 public class AreaOfRectangle {
 
@@ -75,8 +76,13 @@ public class AreaOfRectangle {
 	}
 
 	public void buildObject(){
-		getWidth();
-		getHeight();
+		try{
+			getWidth();
+			getHeight();
+		}
+		catch(InputMismatchException e){
+			System.out.println("Incorrect input- only use numbers!");
+		}
 		getArea();
 		getPerimeter();
 	}

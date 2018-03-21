@@ -11,6 +11,7 @@ OOP design to calculate user's bmi
 
 */
 import java.util.Scanner;
+import java.util.InputMismatchException;
 import java.text.DecimalFormat;
 
 public class BMIcalculator{
@@ -29,7 +30,12 @@ public class BMIcalculator{
 
   public double getHeight(){
     System.out.print("Enter Height in inches: ");
-    height = input.nextDouble();
+    try{
+      height = input.nextDouble();
+    }
+    catch(InputMismatchException e){
+      System.out.println("Please enter a float or integer!");
+    }
     return height;
   }
 
@@ -39,7 +45,12 @@ public class BMIcalculator{
 
   public double getWeight(){
     System.out.print("Enter Weight in pounds: ");
-    weight = input.nextDouble();
+    try{
+      weight = input.nextDouble();
+    }
+    catch(InputMismatchException e){
+      System.out.println("Please enter a float or integer!");
+    }
     return weight;
   }
 
@@ -48,7 +59,12 @@ public class BMIcalculator{
   }
 
   public double calculateBMI(){
-    bmi = weight / Math.pow(height, 2) * CONV;
+    try{
+      bmi = weight / Math.pow(height, 2) * CONV;
+    }
+    catch(ArithmeticException e){
+      System.out.println("Invalid height or weight- Height and Weight must both be greater than zero");
+    }
     return bmi;
   }
 
@@ -73,7 +89,7 @@ public class BMIcalculator{
   }
   //end constructor region
 
-  //test bmi
+  //test bmi to detirmine if healthy
   public boolean isUnderWeight(){
     if(bmi < 18.5){
       return true;
@@ -102,6 +118,7 @@ public class BMIcalculator{
     else return false;
   }
 
+  //print results
   public String testToString(){
     if(isUnderWeight()){
       return "You are underweight! eat more protien!";
