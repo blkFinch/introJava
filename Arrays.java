@@ -19,6 +19,7 @@ public class Arrays{
   private double sum;
   private double standardDeviation;
 
+  //getters and setters
   public double getAverage(){
     return average;
   }
@@ -35,6 +36,7 @@ public class Arrays{
     this.sum = sum;
   }
 
+  //get input from user
   public void promptUser(){
 
     for(int i = 0; i <numbers.length; i++){
@@ -43,42 +45,42 @@ public class Arrays{
     }
   }
 
-  public void printArray(double[]x){
-    for(int i =0; i < x.length; i++)
-      System.out.print(x[i] + " ");
-  }
-
-  public void calculateSum(double[]x){
+  //calculates sum
+  public double calculateSum(double[]x){
     double thisSum = 0;
     for(int i =0; i < x.length; i++)
-      sum += x[i];
-    setSum(thisSum);
+      thisSum += x[i];
+    return thisSum;
   }
 
-  public void calculateAverage(double[]x){
-    setAverage(getSum()/x.length);
+  //calculates average of array
+  public double calculateAverage(double[]x, double sum){
+    return sum/x.length;
   }
 
+  //calculates a single deviation
   public double calculateDeviation(double x){
     return Math.pow((x - getAverage()), 2);
   }
 
+  //calculates the average of all deviations
   public void calculateStandardDeviation(){
     for(int i = 0; i < numbers.length; i++){
       deviations[i] = calculateDeviation(numbers[i]);
     }
 
-    calculateSum(deviations);
-    calculateAverage(deviations);
-    this.standardDeviation = Math.sqrt(getAverage());
+    double deviationSum = calculateSum(deviations);
+    standardDeviation = Math.sqrt(calculateAverage(deviations, deviationSum));
   }
 
+  //handles all the calculations
   public void mainLoop(){
-    calculateSum(numbers);
-    calculateAverage(numbers);
+    setSum(calculateSum(numbers));
+    setAverage(calculateAverage(numbers, getSum()));
     calculateStandardDeviation();
   }
 
+  //PRINT RESULTS
   public void printResults(){
     System.out.print("The Standard Deviation is: " + standardDeviation);
   }
