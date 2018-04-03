@@ -4,16 +4,76 @@
 		"selected_items":
 		[
 			[
+				"Ma",
+				"March"
+			],
+			[
+				"pr",
+				"printMonth"
+			],
+			[
+				"new",
+				"newMonth"
+			],
+			[
+				"user",
+				"userMonth"
+			],
+			[
+				"get",
+				"getSum"
+			],
+			[
+				"devia",
+				"deviationSum"
+			],
+			[
+				"ca",
+				"calculateAverage"
+			],
+			[
+				"cal",
+				"calculateSum"
+			],
+			[
+				"this",
+				"thisSum"
+			],
+			[
+				"st",
+				"standardDeviation"
+			],
+			[
+				"dev",
+				"deviations"
+			],
+			[
+				"set",
+				"setAverage"
+			],
+			[
+				"Cal",
+				"CalculateValue"
+			],
+			[
+				"nu",
+				"numberOfYears"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"inve",
+				"investmentAmount"
+			],
+			[
 				"main",
 				"mainLoop"
 			],
 			[
 				"prin",
 				"println"
-			],
-			[
-				"user",
-				"userInput"
 			],
 			[
 				"pattern",
@@ -36,28 +96,12 @@
 				"Pattern"
 			],
 			[
-				"ca",
-				"calculatePerimeter"
-			],
-			[
 				"ch",
 				"checkPalindrome"
 			],
 			[
-				"cal",
-				"calulateTotals"
-			],
-			[
-				"get",
-				"getInput"
-			],
-			[
 				"getn",
 				"getNetPay"
-			],
-			[
-				"set",
-				"setFedTax"
 			],
 			[
 				"setst",
@@ -112,10 +156,6 @@
 				"aNumber"
 			],
 			[
-				"pr",
-				"printResults"
-			],
-			[
 				"My",
 				"MyGPA"
 			],
@@ -146,10 +186,6 @@
 			[
 				"Tax",
 				"TaxCalculator"
-			],
-			[
-				"in",
-				"input"
 			],
 			[
 				"m",
@@ -428,10 +464,6 @@
 				"grid-auto-columns"
 			],
 			[
-				"st",
-				"style\tTag"
-			],
-			[
 				"head",
 				"header\tTag"
 			],
@@ -482,38 +514,6 @@
 			[
 				"d",
 				"div\tTag"
-			],
-			[
-				"border-c",
-				"border-color"
-			],
-			[
-				"backgr",
-				"background-repeat"
-			],
-			[
-				"gre",
-				"greenarial"
-			],
-			[
-				"co",
-				"color"
-			],
-			[
-				"text-a",
-				"text-align"
-			],
-			[
-				"su",
-				"submit"
-			],
-			[
-				"fo",
-				"form\tTag"
-			],
-			[
-				"hea",
-				"header\tTag"
 			]
 		]
 	},
@@ -523,70 +523,42 @@
 			"file": "AreaOfRectangle.java",
 			"settings":
 			{
-				"buffer_size": 1997,
+				"buffer_size": 2151,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "MonthConverter.java",
+			"settings":
+			{
+				"buffer_size": 2338,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "AreaOfCircle.java",
+			"settings":
+			{
+				"buffer_size": 1462,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "BMIcalculator.java",
 			"settings":
 			{
-				"buffer_size": 2841,
+				"buffer_size": 3329,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "Payroll.java",
+			"file": "Arrays.java",
 			"settings":
 			{
-				"buffer_size": 3985,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "ForDemo.java",
-			"settings":
-			{
-				"buffer_size": 226,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Palindrome.java",
-			"settings":
-			{
-				"buffer_size": 855,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Patterns.java",
-			"settings":
-			{
-				"buffer_size": 2270,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Occurrence.java",
-			"settings":
-			{
-				"buffer_size": 932,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "WhatToDo.java",
-			"settings":
-			{
-				"buffer_size": 1085,
+				"buffer_size": 2138,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -596,15 +568,6 @@
 			"settings":
 			{
 				"buffer_size": 556,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "BitLevel.java",
-			"settings":
-			{
-				"buffer_size": 736,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -812,8 +775,15 @@
 	],
 	"file_history":
 	[
-		"/home/finch/introJava/AreaOfCircle.java",
+		"/home/finch/introJava/ForDemo.java",
+		"/home/finch/introJava/BitLevel.java",
+		"/home/finch/introJava/CalculateValue.java",
+		"/home/finch/introJava/Payroll.java",
+		"/home/finch/introJava/WhatToDo.java",
+		"/home/finch/introJava/Occurrence.java",
+		"/home/finch/introJava/Patterns.java",
 		"/home/finch/introJava/Palindrome.java",
+		"/home/finch/introJava/AreaOfCircle.java",
 		"/home/finch/introJava/SortThree.java",
 		"/home/finch/introJava/RPS.java",
 		"/home/finch/introJava/Student.java",
@@ -908,6 +878,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"case",
+			"if",
 			"outn",
 			"rows",
 			"j",
@@ -971,7 +943,7 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -980,15 +952,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1997,
+						"buffer_size": 2151,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								66,
-								66
+								0,
+								0
 							]
 						],
 						"settings":
@@ -997,88 +969,27 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 240.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "BMIcalculator.java",
+					"file": "MonthConverter.java",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2841,
+						"buffer_size": 2338,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1265,
-								1265
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Java/Java.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "Payroll.java",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3985,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								427,
-								427
-							]
-						],
-						"settings":
-						{
-							"_anf_new": "",
-							"syntax": "Packages/Java/Java.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "ForDemo.java",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 226,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								226,
-								226
+								1258,
+								1258
 							]
 						],
 						"settings":
@@ -1087,27 +998,62 @@
 							"syntax": "Packages/Java/Java.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 765.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 0,
 					"type": "text"
-				},
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
 				{
-					"buffer": 4,
-					"file": "Palindrome.java",
+					"buffer": 2,
+					"file": "AreaOfCircle.java",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 855,
+						"buffer_size": 1462,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								374,
-								374
+								1462,
+								1462
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 406.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "BMIcalculator.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								415,
+								415
 							]
 						],
 						"settings":
@@ -1117,27 +1063,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 45.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "Patterns.java",
+					"buffer": 4,
+					"file": "Arrays.java",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2270,
+						"buffer_size": 2138,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								361,
-								361
+								835,
+								835
 							]
 						],
 						"settings":
@@ -1155,71 +1101,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "Occurrence.java",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 932,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								874,
-								874
-							]
-						],
-						"settings":
-						{
-							"_anf_new": "",
-							"syntax": "Packages/Java/Java.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "WhatToDo.java",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1085,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								46,
-								46
-							]
-						],
-						"settings":
-						{
-							"_anf_new": "",
-							"syntax": "Packages/Java/Java.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 1,
-			"sheets":
-			[
-				{
-					"buffer": 8,
+					"buffer": 5,
 					"file": "MultiplicationTable.java",
 					"semi_transient": false,
 					"settings":
@@ -1246,42 +1128,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
-					"file": "BitLevel.java",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 736,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								607,
-								607
-							]
-						],
-						"settings":
-						{
-							"_anf_new": "",
-							"syntax": "Packages/Java/Java.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
+					"buffer": 6,
 					"file": "Midterm.java",
 					"semi_transient": false,
 					"settings":
@@ -1306,7 +1157,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -1340,7 +1191,7 @@
 		"cols":
 		[
 			0.0,
-			0.579967689822,
+			0.489499192245,
 			1.0
 		],
 		"rows":
@@ -1352,7 +1203,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 144.0
+		"height": 155.0
 	},
 	"output.find_results":
 	{
@@ -1406,7 +1257,7 @@
 		[
 			[
 				"",
-				"~/RailsApps/forums.sublime-project"
+				"~/RailsApps/dragons.sublime-project"
 			]
 		],
 		"width": 380.0
