@@ -4,12 +4,12 @@
 		"selected_items":
 		[
 			[
-				"Ma",
-				"March"
+				"pr",
+				"printList"
 			],
 			[
-				"pr",
-				"printMonth"
+				"Ma",
+				"March"
 			],
 			[
 				"new",
@@ -520,19 +520,37 @@
 	"buffers":
 	[
 		{
-			"file": "AreaOfRectangle.java",
+			"file": "inherit/Animal.java",
 			"settings":
 			{
-				"buffer_size": 2151,
+				"buffer_size": 189,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "MonthConverter.java",
+			"file": "inherit/Dog.java",
 			"settings":
 			{
-				"buffer_size": 2338,
+				"buffer_size": 111,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "inherit/Cat.java",
+			"settings":
+			{
+				"buffer_size": 87,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "inherit/Cellphone.java",
+			"settings":
+			{
+				"buffer_size": 53,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -559,24 +577,6 @@
 			"settings":
 			{
 				"buffer_size": 2138,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "MultiplicationTable.java",
-			"settings":
-			{
-				"buffer_size": 556,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Midterm.java",
-			"settings":
-			{
-				"buffer_size": 195,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -657,12 +657,24 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 400.0,
-		"last_filter": "insta",
+		"height": 392.0,
+		"last_filter": "i",
 		"selected_items":
 		[
 			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
 				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
 				"Package Control: Install Package"
 			],
 			[
@@ -698,10 +710,6 @@
 				"BackgroundColorEdit: Show Background Color"
 			],
 			[
-				"ins",
-				"Package Control: Install Package"
-			],
-			[
 				"remov",
 				"Package Control: Remove Package"
 			],
@@ -712,10 +720,6 @@
 			[
 				"ipsum",
 				"LoremIpsum: (15) some"
-			],
-			[
-				"Package Control: ",
-				"Package Control: Install Package"
 			],
 			[
 				"l",
@@ -750,7 +754,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 568.0
+		"width": 560.0
 	},
 	"console":
 	{
@@ -775,6 +779,11 @@
 	],
 	"file_history":
 	[
+		"/home/finch/introJava/AreaOfRectangle.java",
+		"/home/finch/introJava/MonthConverter.java",
+		"/home/finch/introJava/ArrayAnalysis.java",
+		"/home/finch/introJava/Midterm.java",
+		"/home/finch/introJava/MultiplicationTable.java",
 		"/home/finch/introJava/ForDemo.java",
 		"/home/finch/introJava/BitLevel.java",
 		"/home/finch/introJava/CalculateValue.java",
@@ -864,7 +873,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 26.0
 	},
 	"find_in_files":
 	{
@@ -943,53 +952,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "AreaOfRectangle.java",
+					"file": "inherit/Animal.java",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2151,
+						"buffer_size": 189,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Java/Java.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 240.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "MonthConverter.java",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2338,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1258,
-								1258
+								178,
+								178
 							]
 						],
 						"settings":
@@ -998,20 +978,107 @@
 							"syntax": "Packages/Java/Java.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 765.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "inherit/Dog.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "inherit/Cat.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "inherit/Cellphone.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 53,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
-					"buffer": 2,
+					"buffer": 4,
 					"file": "AreaOfCircle.java",
 					"semi_transient": false,
 					"settings":
@@ -1040,7 +1107,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 5,
 					"file": "BMIcalculator.java",
 					"semi_transient": false,
 					"settings":
@@ -1052,8 +1119,8 @@
 						"selection":
 						[
 							[
-								415,
-								415
+								488,
+								584
 							]
 						],
 						"settings":
@@ -1066,11 +1133,11 @@
 						"translation.y": 45.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 6,
 					"file": "Arrays.java",
 					"semi_transient": false,
 					"settings":
@@ -1097,66 +1164,6 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "MultiplicationTable.java",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 556,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								281,
-								281
-							]
-						],
-						"settings":
-						{
-							"_anf_new": "",
-							"syntax": "Packages/Java/Java.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "Midterm.java",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 195,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								188,
-								188
-							]
-						],
-						"settings":
-						{
-							"_anf_new": "",
-							"syntax": "Packages/Java/Java.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 4,
 					"type": "text"
 				}
@@ -1165,7 +1172,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 26.0
 	},
 	"input":
 	{
@@ -1191,7 +1198,7 @@
 		"cols":
 		[
 			0.0,
-			0.489499192245,
+			0.532554747801,
 			1.0
 		],
 		"rows":
@@ -1221,7 +1228,7 @@
 	"project": "javaClass.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":

@@ -11,6 +11,7 @@ public class MonthConverter{
 
   Scanner userInput = new Scanner(System.in);
 
+
   public int getUserInput(){
     System.out.println("Please enter a number 1-12");
     return userInput.nextInt();
