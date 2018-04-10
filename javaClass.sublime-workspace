@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"seas",
+				"seasonNum"
+			],
+			[
 				"pr",
 				"printList"
 			],
@@ -510,51 +514,11 @@
 			[
 				"rg",
 				"rgba()"
-			],
-			[
-				"d",
-				"div\tTag"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "inherit/Animal.java",
-			"settings":
-			{
-				"buffer_size": 189,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "inherit/Dog.java",
-			"settings":
-			{
-				"buffer_size": 111,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "inherit/Cat.java",
-			"settings":
-			{
-				"buffer_size": 87,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "inherit/Cellphone.java",
-			"settings":
-			{
-				"buffer_size": 53,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
 		{
 			"file": "AreaOfCircle.java",
 			"settings":
@@ -657,10 +621,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "i",
+		"height": 400.0,
+		"last_filter": "in",
 		"selected_items":
 		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"dele",
+				"ANF: Delete Current File"
+			],
 			[
 				"i",
 				"Package Control: Install Package"
@@ -754,7 +726,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 560.0
+		"width": 468.0
 	},
 	"console":
 	{
@@ -779,6 +751,12 @@
 	],
 	"file_history":
 	[
+		"/home/finch/introJava/inherit/Animal.java",
+		"/home/finch/introJava/inherit/Dog.java",
+		"/home/finch/introJava/inherit/Cellphone.java",
+		"/home/finch/introJava/inherit/Cat.java",
+		"/home/finch/introJava/SportChooser.java",
+		"/home/finch/introJava/inherit/SportChooser.java",
 		"/home/finch/introJava/AreaOfRectangle.java",
 		"/home/finch/introJava/MonthConverter.java",
 		"/home/finch/introJava/ArrayAnalysis.java",
@@ -952,133 +930,11 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "inherit/Animal.java",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 189,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								178,
-								178
-							]
-						],
-						"settings":
-						{
-							"_anf_new": "",
-							"syntax": "Packages/Java/Java.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "inherit/Dog.java",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 111,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								111,
-								111
-							]
-						],
-						"settings":
-						{
-							"_anf_new": "",
-							"syntax": "Packages/Java/Java.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "inherit/Cat.java",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 87,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								87,
-								87
-							]
-						],
-						"settings":
-						{
-							"_anf_new": "",
-							"syntax": "Packages/Java/Java.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "inherit/Cellphone.java",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 53,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								51,
-								51
-							]
-						],
-						"settings":
-						{
-							"_anf_new": "",
-							"syntax": "Packages/Java/Java.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 2,
-			"sheets":
-			[
-				{
-					"buffer": 4,
 					"file": "AreaOfCircle.java",
 					"semi_transient": false,
 					"settings":
@@ -1090,8 +946,8 @@
 						"selection":
 						[
 							[
-								1462,
-								1462
+								730,
+								730
 							]
 						],
 						"settings":
@@ -1103,11 +959,17 @@
 						"translation.y": 406.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 0,
 					"type": "text"
-				},
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
 				{
-					"buffer": 5,
+					"buffer": 1,
 					"file": "BMIcalculator.java",
 					"semi_transient": false,
 					"settings":
@@ -1119,8 +981,8 @@
 						"selection":
 						[
 							[
-								488,
-								584
+								346,
+								346
 							]
 						],
 						"settings":
@@ -1133,11 +995,11 @@
 						"translation.y": 45.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 2,
 					"file": "Arrays.java",
 					"semi_transient": false,
 					"settings":
@@ -1164,7 +1026,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -1198,7 +1060,7 @@
 		"cols":
 		[
 			0.0,
-			0.532554747801,
+			0.473526970023,
 			1.0
 		],
 		"rows":
