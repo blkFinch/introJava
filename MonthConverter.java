@@ -8,6 +8,7 @@ public class MonthConverter{
 
   private int userMonth;
   private String month;
+  private String season;
 
   Scanner userInput = new Scanner(System.in);
 
@@ -21,40 +22,40 @@ public class MonthConverter{
     userMonth = getUserInput();
   }
 
-  public void checkMonth(){
-    System.out.println("Calculating month\n.\n.\n.");
+  public void checkSeason(){
+    System.out.println("Calculating season\n.\n.\n.");
     switch(userMonth){
-      case 1: month = "January";
-                    break;
-      case 2: month = "Febuary";
-                    break;
-      case 3: month = "March";
-                    break;
-      case 4: month = "April";
-                    break;
-      case 5: month = "May";
-                    break;
-      case 6: month = "June";
-                    break;
-      case 7: month = "July";
-                    break;
-      case 8: month = "August";
-                    break;
-      case 9: month = "September";
-                    break;
-      case 10: month = "October";
-                    break;
-      case 11: month = "November";
-                    break;
-      case 12: month = "December";
-                    break;
+      case 12: 
+      case 1: 
+      case 2: 
+              season = "Winter";
+              break;
+
+      case 3: 
+      case 4: 
+      case 5: 
+              season = "Spring!";
+              break;
+
+      case 6: 
+      case 7: 
+      case 8: 
+              season = "Summer";
+              break;
+
+      case 9: 
+      case 10: 
+      case 11: 
+              season = "Fall...";
+              break;
+
       default: month = "not a month";
                     break;
     }
   }
 
   //including this function to meet the if/else requirements
-  public void checkMonthAlt(){
+  public void checkMonth(){
     System.out.println("Calculating month\n.\n.\n.");
     if(userMonth == 1){ month = "January"; }
     else if(userMonth == 2){ month = "Febuary"; }
@@ -72,15 +73,16 @@ public class MonthConverter{
       month = "not a month";
   }
 
-  public void printMonth(){
-    System.out.println("That is " + month);
+  public void printResults(){
+    System.out.println(month + " is in " + season );
   }
 
   public static void main(String[] args) {
     MonthConverter newMonth = new MonthConverter();
     newMonth.setUserMonth();
     newMonth.checkMonth();
-    newMonth.printMonth();
+    newMonth.checkSeason();
+    newMonth.printResults();
     
   }//end of main
 }//end of class
