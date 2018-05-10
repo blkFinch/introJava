@@ -1,0 +1,3 @@
+The max is: 476.0
+the min is: 17.0
+the standard deviation is: 134.85220135740278
